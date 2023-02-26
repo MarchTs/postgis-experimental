@@ -1,0 +1,25 @@
+
+# Ignore TypeScript source maps
+*.map
+
+# Ignore the output directory
+/dist
+
+# Ignore the node_modules directory
+/node_modules
+
+# Ignore other build files
+*.log
+*.tgz
+*.zip
+*.tar.gz
+*.tar
+*.rar
+*.7z
+*.gz
+*.bak
+*.swp
+*.swo
+*.tmp
+*.temp
+.DS_Store
